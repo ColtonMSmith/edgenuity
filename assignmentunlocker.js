@@ -4,7 +4,7 @@
 // @version      2
 // @description  Lets you start locked assignments
 // @author       SubatomicMC
-// @match        https://student.edgenuity.com/*
+// @match        *://*.core.learn.edgenuity.com/*
 // @grant        none
 // ==/UserScript==
 
